@@ -10,7 +10,7 @@ before you run something that needs them.
 Defaults to the current directory if no path is given.
 
 Reports any variables that are missing entirely, or present but
-left blank. Exits with status 1 if anything's wrong, 0 if clean —
+left blank. Exits with status 1 if anything's wrong, 0 if clean s
 so it can be dropped into a script or CI step to actually block
 execution instead of just printing a warning.
 
