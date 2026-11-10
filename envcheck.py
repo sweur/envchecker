@@ -53,3 +53,7 @@ def main():
             print(f"  {key}")
 
     sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()
